@@ -47,9 +47,7 @@ Developed by: RegisterNumber:*/
 **Timing Diagram**
 
 **Result**
-<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/c7301008-5514-49d2-a4ce-d1e2a45e2395" />
-<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/80a26928-c01c-43ad-9124-d40de7ce1da8" />
-
-
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/b1189c33-b237-4bf8-b71a-2a3b5b4cb877" />
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/3cec75ae-95b1-4ac8-823e-5a83bdee2deb" />
 
 
